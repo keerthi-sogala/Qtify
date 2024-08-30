@@ -1,0 +1,12 @@
+.sectionWrapper{
+    display: flex;
+    padding: 0px 30px 60px;
+    flex-direction: column;
+    gap: 32px;
+}
+
+hr{
+    color: var(--color-primary);
+    border: 1px solid;
+    
+}
